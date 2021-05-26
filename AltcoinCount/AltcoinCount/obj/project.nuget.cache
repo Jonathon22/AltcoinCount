@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sC6TNmjzmHAYnW3yge7UwZnZQejjf6AVXiiuVVQlqY36wNKbCT9aUhmqcKmAIkpxhgISU8aoc7u8K64cydxmAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\source\\repos\\AltcoinCount\\AltcoinCount\\AltcoinCount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
